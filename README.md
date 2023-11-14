@@ -70,7 +70,20 @@ Quels sites sont obligés de prendre en compte l’accessibilité?
 
 → Identifier les sites qui ont obligation d’être conformes en accessibilité parmi ceux-ci
 
+- lvmh
+- fnac
+- Le Louvre
+- service-public
+- plaisancedutouch
+
+
 → Trouver la page de déclaration d’accessibilité si elle existe
+
+- lvmh : oui
+- fnac : oui
+- Le Louvre : oui
+- service-public : oui
+- plaisancedutouch : oui
 
 → Si elle existe, vérifier si elle contient toutes les données obligatoires.
 
