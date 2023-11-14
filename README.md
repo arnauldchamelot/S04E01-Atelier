@@ -4,7 +4,7 @@
 
 Qui est concerné?
 
-- [ ]  Les personnes aveugles
+- [X]  Les personnes aveugles
 - [ ]  Les personnes âgées
 - [ ]  Les personnes dyslexiques
 - [ ]  Les enfants
